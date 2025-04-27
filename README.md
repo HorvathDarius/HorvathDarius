@@ -1,5 +1,11 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="200" src="https://github.com/HorvathDarius/HorvathDarius/blob/main/header.png?raw=true"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/HorvathDarius/count.svg?"  />
 </div>
 
 ###
@@ -211,13 +217,29 @@
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+  <img src="https://streak-stats.demolab.com?user=HorvathDarius&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HorvathDarius/HorvathDarius/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HorvathDarius/HorvathDarius/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HorvathDarius/HorvathDarius/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=1&username=Dariushorvath&theme=dark" alt="Layout with last medium posts"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/dariusHorvath">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=dariusHorvath&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
