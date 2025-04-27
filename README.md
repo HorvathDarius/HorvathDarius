@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">🎓 Computer Science student with a strong foundation in full-stack development and emerging technologies.<br>🌍 Passionate about applying theoretical knowledge to real-world challenges.<br>📍 Based in [your location] — always looking for opportunities to collaborate and innovate.</p>
+<p align="left">🎓 Computer Science student with a strong foundation in full-stack development and emerging technologies.<br>🌍 Based in Slovakia, but originally from Romania — always looking for opportunities to collaborate and innovate.📍</p>
 
 ###
 
