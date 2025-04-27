@@ -233,15 +233,15 @@
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=1&username=Dariushorvath33&theme=dark" alt="Layout with last medium posts"  />
+  <a href="https://open.spotify.com/user/dariusHorvath">
+    <img alt="https://spotify-recently-played-readme.vercel.app/api?user=dariusHorvath&count=10&unique=false" src="https://spotify-recently-played-readme.vercel.app/api?user=dkpi97lo05qw3qohm0ebwkxb0&count=5&unique=false"  />
+  </a>
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/dariusHorvath">
-    <img alt="https://spotify-recently-played-readme.vercel.app/api?user=dariusHorvath&count=10&unique=false" src="https://spotify-recently-played-readme.vercel.app/api?user=dkpi97lo05qw3qohm0ebwkxb0&count=5&unique=false"  />
-  </a>
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=1&username=Dariushorvath33&theme=dark" alt="Layout with last medium posts"  />
 </div>
 
 ###
