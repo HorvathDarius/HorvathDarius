@@ -11,11 +11,15 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="60" height="40" alt="medium logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/signal/default.svg" width="60" height="40" alt="signal logo"  />
+  <a href="https://www.linkedin.com/in/darius-horvath-91710723b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="dariushorvath33@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://medium.com/@dariushorvath33" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="60" height="40" alt="medium logo"  />
+  </a>
 </div>
 
 ###
@@ -28,7 +32,7 @@
 
 ###
 
-<p align="left">🎓 Computer Science student with a strong foundation in full-stack development and emerging technologies.<br>🌍 Based in Slovakia, but originally from Romania — always looking for opportunities to collaborate and innovate.📍</p>
+<p align="left">🎓 Computer Science student with a strong foundation in full-stack development and emerging technologies.<br>🌍 Passionate about applying theoretical knowledge to real-world challenges.<br>📍 Based in [your location] — always looking for opportunities to collaborate and innovate.</p>
 
 ###
 
