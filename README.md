@@ -257,7 +257,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=1&username=Dariushorvath33&theme=dark" alt="Layout with last medium posts"  />
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=1&username=dariushorvath33&theme=dark" alt="Layout with last medium posts"  />
 </div>
 
 ###
