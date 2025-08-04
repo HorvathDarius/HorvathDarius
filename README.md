@@ -5,12 +5,6 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/HorvathDarius/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/darius-horvath-91710723b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
   </a>
@@ -245,19 +239,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HorvathDarius/HorvathDarius/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HorvathDarius/HorvathDarius/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/dariusHorvath">
-    <img alt="https://spotify-recently-played-readme.vercel.app/api?user=dariusHorvath&count=10&unique=false" src="https://spotify-recently-played-readme.vercel.app/api?user=dkpi97lo05qw3qohm0ebwkxb0&count=5&unique=false"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=1&username=dariushorvath33&theme=dark" alt="Layout with last medium posts"  />
-</div>
 
 ###
