@@ -110,6 +110,11 @@
   <img src="https://skillicons.dev/icons?i=java" height="40" width="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=maven" height="40" width="40" alt="apachemaven logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" width="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=swift" height="40" width="40" alt="swift logo"  />
+  <img width="12" />
 </div>
 
 ###
@@ -146,6 +151,12 @@
   <img src="https://skillicons.dev/icons?i=nginx" height="40" width="40" alt="nginx logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="40" width="40" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" width="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" width="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" width="40" alt="githubactions logo"  />
 </div>
 
 ###
@@ -222,6 +233,11 @@
   <img src="https://skillicons.dev/icons?i=unity" height="40" width="40" alt="unity logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ros" height="40" width="40" alt="ros logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" width="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=md" height="40" width="40" alt="markdown logo"  />
+  <img width="12" />
 </div>
 
 ###
