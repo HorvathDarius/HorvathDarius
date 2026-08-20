@@ -30,11 +30,11 @@
 
 ###
 
-<p align="left">🎓 Computer Science student with a strong foundation in full-stack development and emerging technologies.<br>🌍 Based in Slovakia, but originally from Romania — always looking for opportunities to collaborate and innovate.📍</p>
+<p align="left">🎓 Computer Science student with a strong foundation in full-stack development and emerging technologies.<br>🌍 Based in Slovakia, but originally from Romania 📍 always looking for opportunities to collaborate and innovate</p>
 
 ###
 
-<p align="left">💻 Full-stack developer | 🧠 Code junkie | 🌍 Technology explorer<br>🚀 Passionate about AI 🤖, machine learning 📈, system design 🏗️, and emerging tech 🚀 — always chasing what’s next.<br>🛠️ Build fast ⚡. Learn faster 🚀. Break limits 🧠.<br>🎸 In my free time: 📚 reading, 🎸 playing guitar, ✈️ traveling, 🧑‍🤝‍🧑 hanging out with friends, and 🏆 hacking away at hackathons.<br>👾 Always building, always evolving.</p>
+<p align="left">💻 Full-stack developer | 🧠 Code junkie | 🌍 Technology explorer<br>🚀 Passionate about AI 🤖, machine learning 📈, system design 🏗️, and emerging tech 🚀 always chasing what’s next.<br>🛠️ Build fast ⚡. Learn faster 🚀 Break limits 🧠<br>🎸 In my free time: 📚 reading, 🎸 playing guitar, ✈️ traveling, 🧑‍🤝‍🧑 hanging out with friends, and 🏆 hacking away at hackathons<br>👾 Always building, always evolving</p>
 
 ###
 
